@@ -2,14 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=ADHIDEV%20ATHMAN&fontSize=50&fontAlign=80&fontColor=4c87b9&animation=twinkling&stroke=000000" alt="ADHIDEV ATHMAN's Header" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/output/snake.svg" alt="Snake animation of contributions" />
-</div>
+
 
 <br>
 
 <div align="center">
-  <h3>Hello there! 👋 I'm Adhidev, a Computer Science Engineering student passionate about building solutions and exploring new technologies.</h3>
+  <h3>Hello there! 👋 I'm Adhidev, a Computer Science Engineer passionate about building solutions and exploring new technologies.</h3>
 </div>
 
 ---
@@ -45,14 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&theme=radical&show_icons=true" alt="Adhidev's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true" alt="Adhidev's GitHub Streak" />
-</div>
-
----
 
 <div align="center">
   <h3>Let's Connect!</h3>

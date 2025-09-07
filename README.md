@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <h3>Hello there! 👋 I'm Adhidev, a Computer Science Engineer passionate about building solutions and exploring new technologies.</h3>
+  <h3>Hello there! 👋 I'm Adhidev Athman, a Computer Science Engineer passionate about building solutions and exploring new technologies.</h3>
 </div>
 
 ---
